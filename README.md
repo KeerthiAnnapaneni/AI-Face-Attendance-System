@@ -26,7 +26,7 @@ Built using Python and OpenCV’s LBPH (Local Binary Patterns Histograms) algori
 - ✅ Handles both known and unknown faces
 - ✅Clean CSV export for easy integration with Excel or databases
 
-## nstall dependencies:
+## Install dependencies:
 ```
 pip install opencv-python opencv-contrib-python numpy pandas
 ```
